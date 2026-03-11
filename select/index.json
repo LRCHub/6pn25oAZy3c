@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天使になれたら",
+  "base_artist": "bokula.",
+  "createdAt": "2026-03-11T12:18:54.757691Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天使になれたら",
+      "artist": "bokula.",
+      "has_synced": false,
+      "path": "select/pl_01_天使になれたら_bokula..txt"
+    }
+  ]
+}
